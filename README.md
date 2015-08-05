@@ -1,5 +1,7 @@
 # foolpc
 
+![](art/foolpc-wireframe.png)
+
 組裝電腦規劃書網站 2.0
 
 大家應該都用過類似 coolpc 原價網提供的估價計畫單吧。
