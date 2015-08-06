@@ -30,9 +30,9 @@
    inkscape:window-height="1028"
    id="namedview207"
    showgrid="false"
-   inkscape:zoom="0.83294124"
-   inkscape:cx="563.33844"
-   inkscape:cy="566.39204"
+   inkscape:zoom="1.1779568"
+   inkscape:cx="214.0524"
+   inkscape:cy="589.87809"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -41,7 +41,7 @@
    inkscape:guide-bbox="true" /><metadata
    id="metadata8"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs6"><clipPath
    id="clipPath18"
    clipPathUnits="userSpaceOnUse"><path
@@ -207,6 +207,8 @@
      id="feComposite4341" /></filter>
 
 
+
+
 </defs><rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="rect5297"
@@ -216,23 +218,24 @@
    y="1.5522016" /><g
    id="g4063-3"
    transform="matrix(0.68956286,0,0,0.68956286,34.471007,337.30296)"><rect
-     ry="8.4892759"
-     y="386.27698"
-     x="24.618847"
-     height="26.316755"
-     width="104.41809"
-     id="rect3241-2"
-     style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-2"
+   ry="8.4892759"
+   y="386.27698"
+   x="24.618847"
+   height="26.316755"
+   width="104.41809"
+   id="rect3241-2"
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
+   sodipodi:linespacing="125%"
+   id="text4026-2"
+   y="406.1832"
+   x="47.541306"
+   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
      y="406.1832"
      x="47.541306"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="406.1832"
-       x="47.541306"
-       id="tspan4030-1"
-       sodipodi:role="line">M-ATX</tspan></text>
+     id="tspan4030-1"
+     sodipodi:role="line">M-ATX</tspan></text>
+
 </g><rect
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="rect5202"
@@ -256,6 +259,7 @@
 
 
 
+
 <text
    sodipodi:linespacing="125%"
    id="text5208"
@@ -267,6 +271,7 @@
      x="263.74643"
      id="tspan5210"
      sodipodi:role="line">Intel Xeon R. E3-1231 V3【四核】3.4GHz(↑3.8G)/8M快取/無內顯【代理】, $7770</tspan></text>
+
 
 
 
@@ -286,6 +291,7 @@
 
 
 
+
 <text
    sodipodi:linespacing="125%"
    id="text5216"
@@ -297,6 +303,7 @@
      x="1230.4918"
      id="tspan5218"
      sodipodi:role="line">$8390</tspan></text>
+
 
 
 
@@ -316,6 +323,7 @@
 
 
 
+
 <text
    sodipodi:linespacing="125%"
    id="text5224"
@@ -327,6 +335,7 @@
      x="1230.4918"
      id="tspan5226"
      sodipodi:role="line">$8390</tspan></text>
+
 
 
 
@@ -389,6 +398,7 @@
 
 
 
+
 <rect
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="rect5242"
@@ -420,6 +430,7 @@
 
 
 
+
 <rect
    transform="scale(-1,1)"
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -440,6 +451,7 @@
      x="101.85342"
      id="tspan5254"
      sodipodi:role="line">記憶體</tspan></text>
+
 
 
 
@@ -479,6 +491,7 @@
 
 
 
+
 </g></g></g><g
    id="g52"
    transform="matrix(1.3333333,0,0,-1.3333333,1824.8587,1049.2938)"><g
@@ -498,6 +511,7 @@
 
 
 
+
 </g></g></g><g
    id="g68"
    transform="matrix(1.3333333,0,0,-1.3333333,1824.8587,1049.2938)"><g
@@ -512,6 +526,7 @@
      x="0 9.3210001 16.783001 21.229 24.254101 30.527901 37.989899 45.240002 49.487099 56.529202 59.748001 63.036999 74.409401 81.510002 85.924797 93.247704 96.424896 103.5749 110.3427 113.6252 121.0092 128.0396 132.11639 139.1351 143.6396 155.02499 158.20219 165.43021 172.3826 175.6716 182.41991 189.6739 196.7459 203.6151 206.7923 214.0099 221.3549"
      y="0"
      id="tspan76">Horizontal margins determine spacing.</tspan></text>
+
 
 
 
@@ -586,6 +601,7 @@
 
 
 
+
 <g
    id="g162"
    transform="matrix(1.3333333,0,0,-1.3333333,1987.5254,523.29376)"><path
@@ -632,6 +648,7 @@
 
 
 
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,102.28813 h -32 V 70.288132 h 32 z"
@@ -644,6 +661,7 @@
      x="1924.757 1934.4983 1944.2396 1953.9983"
      y="91.288116"
      id="tspan208">72dp</tspan></text>
+
 
 
 
@@ -664,6 +682,7 @@
 
 
 
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,230.28809 h -32 v -32 h 32 z"
@@ -676,6 +695,7 @@
      x="1924.757 1934.4983 1944.2396 1953.9983"
      y="219.28812"
      id="tspan220">88dp</tspan></text>
+
 
 
 
@@ -714,6 +734,7 @@
 
 
 
+
 <g
    id="g264"
    transform="matrix(1.3333333,0,0,-1.3333333,475.42372,328.95479)"><g
@@ -745,6 +766,7 @@
 
 
 
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,-217.71186 h -32 v -32 h 32 z"
@@ -761,6 +783,7 @@
 
 
 
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,-153.71186 h -32 v -32 h 32 z"
@@ -773,6 +796,7 @@
      x="1925.6411 1935.3824 1945.1238 1954.8824"
      y="-164.71188"
      id="tspan310">32dp</tspan></text>
+
 
 
 
@@ -802,6 +826,7 @@
 
 
 
+
 <path
    inkscape:connector-curvature="0"
    d="m -34.029662,370.84038 h -85.333328 v 85.33333 h 85.333328 z m -1.33333,84 h -82.666668 v -82.66667 h 82.666668 z"
@@ -822,6 +847,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -833,6 +859,7 @@
      id="tspan3436"
      x="314.54794"
      y="499.435" /></text>
+
 
 
 
@@ -852,6 +879,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:70.53517914px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.96026492;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -867,6 +895,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -878,6 +907,7 @@
      id="tspan4827"
      x="264.4516"
      y="572.36249">Toshiba 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $2800</tspan></text>
+
 
 
 
@@ -908,6 +938,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -919,6 +950,7 @@
      id="tspan4800"
      x="264.35071"
      y="423.6069">Intel Xeon R. E3-1231 V3【四核】3.4GHz(↑3.8G)/8M快取/無內顯【代理】, $7770</tspan></text>
+
 
 
 
@@ -938,6 +970,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -949,6 +982,7 @@
      id="tspan4872"
      x="1231.0961"
      y="351.5531">$8390</tspan></text>
+
 
 
 
@@ -968,6 +1002,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -983,6 +1018,7 @@
 
 
 
+
 <text
    sodipodi:linespacing="125%"
    id="text4924"
@@ -994,6 +1030,7 @@
      x="1231.0961"
      id="tspan4926"
      sodipodi:role="line">$8390</tspan></text>
+
 
 
 
@@ -1065,6 +1102,7 @@
 
 
 
+
 <rect
    ry="0"
    rx="0"
@@ -1096,6 +1134,7 @@
 
 
 
+
 <rect
    ry="0"
    rx="0"
@@ -1116,6 +1155,7 @@
      id="tspan5030"
      x="102.4577"
      y="497.28348">記憶體</tspan></text>
+
 
 
 
@@ -1144,6 +1184,7 @@
 
 
 
+
 <path
    id="path5274"
    d="m 1143.0522,341.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
@@ -1163,23 +1204,24 @@
    style="fill:#000000;fill-opacity:0.70196078" /><g
    id="g4058-6"
    transform="matrix(0.68200233,0,0,0.68200233,209.98643,248.36501)"><rect
-     ry="8.4892759"
-     y="521.68097"
-     x="10.611541"
-     height="26.316757"
-     width="132.71785"
-     id="rect3241-1-8"
-     style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-7-5"
+   ry="8.4892759"
+   y="521.68097"
+   x="10.611541"
+   height="26.316757"
+   width="132.71785"
+   id="rect3241-1-8"
+   style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
+   sodipodi:linespacing="125%"
+   id="text4026-7-5"
+   y="540.4361"
+   x="31.836145"
+   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
      y="540.4361"
      x="31.836145"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="540.4361"
-       x="31.836145"
-       id="tspan4056-7"
-       sodipodi:role="line">1150 pin</tspan></text>
+     id="tspan4056-7"
+     sodipodi:role="line">1150 pin</tspan></text>
+
 </g><g
    id="g4057"><g
    id="g4053"><rect
@@ -1210,6 +1252,7 @@
      y="570.43195">Toshiba 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $2800</tspan></text>
 
 
+
 <text
    sodipodi:linespacing="125%"
    id="text3450-1-4-9"
@@ -1221,6 +1264,7 @@
      sodipodi:role="line"
      x="265.53998"
      y="604.55188">Seagate 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $3800</tspan></text>
+
 
 
 <text
@@ -1236,26 +1280,28 @@
      y="639.16058">Andrew 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $4800</tspan></text>
 
 
+
 </g><g
    id="g4100-6"
    transform="translate(-521.17417,298.60208)"><rect
-     ry="5.8538895"
-     y="305.04465"
-     x="656.03351"
-     height="18.147057"
-     width="72.002838"
-     id="rect3241-9-1"
-     style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-4-8"
+   ry="5.8538895"
+   y="305.04465"
+   x="656.03351"
+   height="18.147057"
+   width="72.002838"
+   id="rect3241-9-1"
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
+   sodipodi:linespacing="125%"
+   id="text4026-4-8"
+   y="318.77121"
+   x="676.83203"
+   style="font-size:12.56011581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
      y="318.77121"
      x="676.83203"
-     style="font-size:12.56011581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="318.77121"
-       x="676.83203"
-       id="tspan4098-9"
-       sodipodi:role="line">B85M</tspan></text>
+     id="tspan4098-9"
+     sodipodi:role="line">B85M</tspan></text>
+
 </g><text
    xml:space="preserve"
    style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.84105963;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Bold"
@@ -1268,161 +1314,164 @@
      id="tspan3256"
      x="37.352814"
      y="407.50018" /></text>
+
 <g
    id="g4063"
    transform="matrix(0.68956286,0,0,0.68956286,35.280578,39.251677)"><rect
-     ry="8.4892759"
-     y="386.27698"
-     x="24.618847"
-     height="26.316755"
-     width="104.41809"
-     id="rect3241"
-     style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-     sodipodi:linespacing="125%"
-     id="text4026"
+   ry="8.4892759"
+   y="386.27698"
+   x="24.618847"
+   height="26.316755"
+   width="104.41809"
+   id="rect3241"
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
+   sodipodi:linespacing="125%"
+   id="text4026"
+   y="406.1832"
+   x="47.541306"
+   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
      y="406.1832"
      x="47.541306"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="406.1832"
-       x="47.541306"
-       id="tspan4030"
-       sodipodi:role="line">M-ATX</tspan></text>
-</g><g
-   id="g4058"
-   transform="matrix(0.68200233,0,0,0.68200233,212.24521,-51.735755)"><rect
-     ry="8.4892759"
-     y="521.68097"
-     x="10.611541"
-     height="26.316757"
-     width="132.71785"
-     id="rect3241-1"
-     style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-7"
-     y="540.4361"
-     x="31.836145"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="540.4361"
-       x="31.836145"
-       id="tspan4056"
-       sodipodi:role="line">1150 pin</tspan></text>
-</g><g
+     id="tspan4030"
+     sodipodi:role="line">M-ATX</tspan></text>
+
+</g><rect
+   style="fill:none;stroke:#ff4081;stroke-width:0.76888727999999984;stroke-opacity:1"
+   id="rect3241-1"
+   width="90.513885"
+   height="17.94809"
+   x="219.4823"
+   y="304.05188"
+   ry="5.7897058" /><text
+   xml:space="preserve"
+   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="233.95753"
+   y="316.84293"
+   id="text4026-7"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan4056"
+     x="233.95753"
+     y="316.84293">1150 pin</tspan></text>
+<g
    id="g4100"
    transform="translate(-522.16544,0.35163733)"><rect
-     ry="5.8538895"
-     y="305.04465"
-     x="656.03351"
-     height="18.147057"
-     width="72.002838"
-     id="rect3241-9"
-     style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-4"
+   ry="5.8538895"
+   y="305.04465"
+   x="656.03351"
+   height="18.147057"
+   width="72.002838"
+   id="rect3241-9"
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
+   sodipodi:linespacing="125%"
+   id="text4026-4"
+   y="318.77121"
+   x="676.83203"
+   style="font-size:12.56011581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
      y="318.77121"
      x="676.83203"
-     style="font-size:12.56011581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="318.77121"
-       x="676.83203"
-       id="tspan4098"
-       sodipodi:role="line">B85M</tspan></text>
-</g><g
-   id="g4058-8"
-   transform="matrix(0.68200233,0,0,0.68200233,46.552519,25.421927)"><rect
-     ry="8.4892759"
-     y="521.68097"
-     x="10.611541"
-     height="26.316757"
-     width="132.71785"
-     id="rect3241-1-2"
-     style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-7-4"
-     y="540.4361"
-     x="31.836145"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="540.4361"
-       x="31.836145"
-       id="tspan4056-5"
-       sodipodi:role="line">1150 pin</tspan></text>
-</g><g
-   id="g4058-8-5"
-   transform="matrix(0.68200233,0,0,0.68200233,48.953648,97.25667)"><rect
-     ry="8.4892759"
-     y="521.68097"
-     x="10.611541"
-     height="26.316757"
-     width="132.71785"
-     id="rect3241-1-2-1"
-     style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-7-4-7"
-     y="540.4361"
-     x="31.836145"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="540.4361"
-       x="31.836145"
-       id="tspan4056-5-1"
-       sodipodi:role="line">1150 pin</tspan></text>
-</g><g
+     id="tspan4098"
+     sodipodi:role="line">B85M</tspan></text>
+
+</g><rect
+   style="fill:none;stroke:#ff4081;stroke-width:0.76888727999999984;stroke-opacity:1"
+   id="rect3241-1-2"
+   width="90.513885"
+   height="17.94809"
+   x="53.789616"
+   y="381.20956"
+   ry="5.7897058" /><text
+   xml:space="preserve"
+   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="68.264847"
+   y="394.00061"
+   id="text4026-7-4"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan4056-5"
+     x="68.264847"
+     y="394.00061">1150 pin</tspan></text>
+<g
    id="g4296"><rect
-     ry="5.7897058"
-     y="527.47931"
-     x="56.190746"
-     height="17.94809"
-     width="44.226498"
-     id="rect3241-1-2-1-5"
-     style="fill:none;stroke:#000000;stroke-width:0.53746027;stroke-opacity:1" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-7-4-7-2"
-     y="540.27039"
-     x="70.665977"
-     style="font-size:12.42240291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.74172214000000003;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       id="tspan4294"
-       sodipodi:role="line">8G</tspan></text>
+   ry="5.7897058"
+   y="527.47931"
+   x="56.190746"
+   height="17.94809"
+   width="44.226498"
+   id="rect3241-1-2-1-5"
+   style="fill:none;stroke:#000000;stroke-width:0.53746027;stroke-opacity:1" /><text
+   sodipodi:linespacing="125%"
+   id="text4026-7-4-7-2"
+   y="540.27039"
+   x="70.665977"
+   style="font-size:12.42240291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.74172214000000003;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
+     id="tspan4294"
+     sodipodi:role="line">8G</tspan></text>
+
 </g><g
    id="g4058-8-2"
    transform="matrix(0.68200233,0,0,0.68200233,50.226151,322.88463)"><rect
-     ry="8.4892759"
-     y="521.68097"
-     x="10.611541"
-     height="26.316757"
-     width="132.71785"
-     id="rect3241-1-2-7"
-     style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
-     sodipodi:linespacing="125%"
-     id="text4026-7-4-9"
+   ry="8.4892759"
+   y="521.68097"
+   x="10.611541"
+   height="26.316757"
+   width="132.71785"
+   id="rect3241-1-2-7"
+   style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
+   sodipodi:linespacing="125%"
+   id="text4026-7-4-9"
+   y="540.4361"
+   x="31.836145"
+   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
      y="540.4361"
      x="31.836145"
-     style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-     xml:space="preserve"><tspan
-       y="540.4361"
-       x="31.836145"
-       id="tspan4056-5-5"
-       sodipodi:role="line">1150 pin</tspan></text>
+     id="tspan4056-5-5"
+     sodipodi:role="line">1150 pin</tspan></text>
+
 </g><g
    id="g4301"
    transform="translate(2.5467828,224.11689)"><rect
-     style="fill:none;stroke:#000000;stroke-width:0.53746027;stroke-opacity:1"
-     id="rect4303"
-     width="44.226498"
-     height="17.94809"
-     x="56.190746"
-     y="527.47931"
-     ry="5.7897058" /><text
-     xml:space="preserve"
-     style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   style="fill:none;stroke:#000000;stroke-width:0.53746027;stroke-opacity:1"
+   id="rect4303"
+   width="44.226498"
+   height="17.94809"
+   x="56.190746"
+   y="527.47931"
+   ry="5.7897058" /><text
+   xml:space="preserve"
+   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="70.665977"
+   y="540.27039"
+   id="text4305"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan4307"
      x="70.665977"
-     y="540.27039"
-     id="text4305"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan4307"
-       x="70.665977"
-       y="540.27039">8G</tspan></text>
+     y="540.27039">8G</tspan></text>
+
+</g><g
+   id="g4091"
+   transform="translate(0,-74)"><rect
+   style="fill:none;stroke:#000000;stroke-width:0.53746027;stroke-opacity:1"
+   id="rect4093"
+   width="44.226498"
+   height="17.94809"
+   x="56.190746"
+   y="527.47931"
+   ry="5.7897058" /><text
+   xml:space="preserve"
+   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="70.665977"
+   y="540.27039"
+   id="text4095"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan4097"
+     x="70.665977"
+     y="540.27039">8G</tspan></text>
+
 </g></svg>
