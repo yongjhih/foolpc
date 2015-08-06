@@ -36,9 +36,9 @@ intel cpu cpu-1150 e3-1231 v3 [cpu, cpu-1150, intel] [== mb-1150]
 
 queries:
 
-* 主機版分類就下 query: `mb`
-* cpu 分類就下 query: `cpu`
+* 主機版分類 query `mb` 就可以呈現出主機版的下拉選單了。另外在分類旁邊顯示可選取的 tag 來做過濾條件
+* cpu 分類就下 query `cpu`
 
-如果點選了 "intel cpu cpu-1150 e3-1231 v3" 項目，因為這個項目有寫相依 `cpu-1150` 所以幫 cpu 分類多點選一個 `cpu-1150` tag 即可。
+如果點選了 "intel cpu cpu-1150 e3-1231 v3" 項目，因為這個項目有寫相依 `cpu-1150` 所以幫 cpu 分類多點選一個 `cpu-1150` 過濾條件即可。
 
 不過有些 tag 需要資料型別才能夠做 range ，這有點小麻煩。
