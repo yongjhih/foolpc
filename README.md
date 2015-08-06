@@ -30,8 +30,8 @@
 objects:
 
 ```
-asus mb b85m g-plus 1150 [mb, asus, mb-1150] [== cpu-1150]
-intel cpu cpu-1150 e3-1231 v3 [cpu, cpu-1150, intel] [== mb-1150]
+asus mb b85m g-plus 1150 [mb, asus, mb/1150] [== cpu/1150]
+intel cpu cpu-1150 e3-1231 v3 [cpu, cpu/1150, intel] [== mb/1150]
 ```
 
 queries:
@@ -39,6 +39,8 @@ queries:
 * 主機版分類 query `mb` 就可以呈現出主機版的下拉選單了。另外在分類旁邊顯示可選取的 tag 來做過濾條件
 * cpu 分類就下 query `cpu`
 
-如果點選了 "intel cpu cpu-1150 e3-1231 v3" 項目，因為這個項目有寫相依 `cpu-1150` 所以幫 cpu 分類多點選一個 `cpu-1150` 過濾條件即可。
+如果點選了 "intel cpu cpu-1150 e3-1231 v3" 項目，因為這個項目有寫相依 `cpu/1150` 所以幫 cpu 分類多點選一個 `cpu/1150` 過濾條件即可。
+
+這邊你也可以看到有些條件本身相依其他條件 `1150` 不是獨立存在，是相依在 `cpu/1150` 或者 `mb/1150` ，也就是如果你選取了 `mb` 條件就不會顯示出 `cpu/1150` 以及 `cpu/*` 項目了。區域條件/全域條件。
 
 不過有些 tag 需要資料型別才能夠做 range ，這有點小麻煩。
