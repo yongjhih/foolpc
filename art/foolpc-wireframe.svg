@@ -30,9 +30,9 @@
    inkscape:window-height="1028"
    id="namedview207"
    showgrid="false"
-   inkscape:zoom="1.1779568"
-   inkscape:cx="214.0524"
-   inkscape:cy="589.87809"
+   inkscape:zoom="0.83294124"
+   inkscape:cx="148.03962"
+   inkscape:cy="750.47705"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -41,7 +41,7 @@
    inkscape:guide-bbox="true" /><metadata
    id="metadata8"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs6"><clipPath
    id="clipPath18"
    clipPathUnits="userSpaceOnUse"><path
@@ -209,34 +209,35 @@
 
 
 
+
+
+
+
 </defs><rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="rect5297"
    width="1383.0511"
    height="1130.9321"
    x="-4.4798024e-005"
-   y="1.5522016" /><g
-   id="g4063-3"
-   transform="matrix(0.68956286,0,0,0.68956286,34.471007,337.30296)"><rect
-   ry="8.4892759"
-   y="386.27698"
-   x="24.618847"
-   height="26.316755"
-   width="104.41809"
+   y="1.5522016" /><rect
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none"
    id="rect3241-2"
-   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-   sodipodi:linespacing="125%"
+   width="72.002838"
+   height="18.147057"
+   x="51.44725"
+   y="603.66522"
+   ry="5.8538895" /><text
+   xml:space="preserve"
+   style="font-size:12.56011580999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="67.253723"
+   y="617.39178"
    id="text4026-2"
-   y="406.1832"
-   x="47.541306"
-   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-   xml:space="preserve"><tspan
-     y="406.1832"
-     x="47.541306"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
      id="tspan4030-1"
-     sodipodi:role="line">M-ATX</tspan></text>
-
-</g><rect
+     x="67.253723"
+     y="617.39178">M-ATX</tspan></text>
+<rect
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="rect5202"
    width="912.9906"
@@ -1281,28 +1282,25 @@
 
 
 
-</g><g
-   id="g4100-6"
-   transform="translate(-521.17417,298.60208)"><rect
-   ry="5.8538895"
-   y="305.04465"
-   x="656.03351"
-   height="18.147057"
-   width="72.002838"
+</g><rect
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none"
    id="rect3241-9-1"
-   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-   sodipodi:linespacing="125%"
+   width="72.002838"
+   height="18.147057"
+   x="134.85934"
+   y="603.64673"
+   ry="5.8538895" /><text
+   xml:space="preserve"
+   style="font-size:12.56011580999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="155.65787"
+   y="617.37329"
    id="text4026-4-8"
-   y="318.77121"
-   x="676.83203"
-   style="font-size:12.56011581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-   xml:space="preserve"><tspan
-     y="318.77121"
-     x="676.83203"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
      id="tspan4098-9"
-     sodipodi:role="line">B85M</tspan></text>
-
-</g><text
+     x="155.65787"
+     y="617.37329">B85M</tspan></text>
+<text
    xml:space="preserve"
    style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.84105963;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Bold"
    x="37.352814"
@@ -1315,28 +1313,25 @@
      x="37.352814"
      y="407.50018" /></text>
 
-<g
-   id="g4063"
-   transform="matrix(0.68956286,0,0,0.68956286,35.280578,39.251677)"><rect
-   ry="8.4892759"
-   y="386.27698"
-   x="24.618847"
-   height="26.316755"
-   width="104.41809"
+<rect
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none"
    id="rect3241"
-   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-   sodipodi:linespacing="125%"
+   width="72.002838"
+   height="18.147057"
+   x="52.256821"
+   y="305.61392"
+   ry="5.8538895" /><text
+   xml:space="preserve"
+   style="font-size:12.56011580999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="68.063293"
+   y="319.34052"
    id="text4026"
-   y="406.1832"
-   x="47.541306"
-   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-   xml:space="preserve"><tspan
-     y="406.1832"
-     x="47.541306"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
      id="tspan4030"
-     sodipodi:role="line">M-ATX</tspan></text>
-
-</g><rect
+     x="68.063293"
+     y="319.34052">M-ATX</tspan></text>
+<rect
    style="fill:none;stroke:#ff4081;stroke-width:0.76888727999999984;stroke-opacity:1"
    id="rect3241-1"
    width="90.513885"
@@ -1345,7 +1340,7 @@
    y="304.05188"
    ry="5.7897058" /><text
    xml:space="preserve"
-   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   style="font-size:12.42240334000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff4081;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
    x="233.95753"
    y="316.84293"
    id="text4026-7"
@@ -1354,45 +1349,24 @@
      id="tspan4056"
      x="233.95753"
      y="316.84293">1150 pin</tspan></text>
-<g
-   id="g4100"
-   transform="translate(-522.16544,0.35163733)"><rect
-   ry="5.8538895"
-   y="305.04465"
-   x="656.03351"
-   height="18.147057"
-   width="72.002838"
+<rect
+   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none"
    id="rect3241-9"
-   style="fill:#000000;fill-opacity:0.70588235;fill-rule:nonzero;stroke:none" /><text
-   sodipodi:linespacing="125%"
-   id="text4026-4"
-   y="318.77121"
-   x="676.83203"
-   style="font-size:12.56011581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-   xml:space="preserve"><tspan
-     y="318.77121"
-     x="676.83203"
-     id="tspan4098"
-     sodipodi:role="line">B85M</tspan></text>
-
-</g><rect
-   style="fill:none;stroke:#ff4081;stroke-width:0.76888727999999984;stroke-opacity:1"
-   id="rect3241-1-2"
-   width="90.513885"
-   height="17.94809"
-   x="53.789616"
-   y="381.20956"
-   ry="5.7897058" /><text
+   width="72.002838"
+   height="18.147057"
+   x="133.86807"
+   y="305.39627"
+   ry="5.8538895" /><text
    xml:space="preserve"
-   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-   x="68.264847"
-   y="394.00061"
-   id="text4026-7-4"
+   style="font-size:12.56011580999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="154.6666"
+   y="319.12283"
+   id="text4026-4"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
-     id="tspan4056-5"
-     x="68.264847"
-     y="394.00061">1150 pin</tspan></text>
+     id="tspan4098"
+     x="154.6666"
+     y="319.12283">B85M</tspan></text>
 <g
    id="g4296"><rect
    ry="5.7897058"
@@ -1410,27 +1384,6 @@
    xml:space="preserve"><tspan
      id="tspan4294"
      sodipodi:role="line">8G</tspan></text>
-
-</g><g
-   id="g4058-8-2"
-   transform="matrix(0.68200233,0,0,0.68200233,50.226151,322.88463)"><rect
-   ry="8.4892759"
-   y="521.68097"
-   x="10.611541"
-   height="26.316757"
-   width="132.71785"
-   id="rect3241-1-2-7"
-   style="fill:none;stroke:#000000;stroke-width:1.12739682;stroke-opacity:1" /><text
-   sodipodi:linespacing="125%"
-   id="text4026-7-4-9"
-   y="540.4361"
-   x="31.836145"
-   style="font-size:18.21460533px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.74172214;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
-   xml:space="preserve"><tspan
-     y="540.4361"
-     x="31.836145"
-     id="tspan4056-5-5"
-     sodipodi:role="line">1150 pin</tspan></text>
 
 </g><g
    id="g4301"
@@ -1474,4 +1427,40 @@
      x="70.665977"
      y="540.27039">8G</tspan></text>
 
-</g></svg>
+</g><rect
+   ry="5.7897058"
+   y="382.08862"
+   x="55.004906"
+   height="17.94809"
+   width="90.513885"
+   id="rect4164"
+   style="fill:none;stroke:#ff4081;stroke-width:0.76888728;stroke-opacity:1" /><text
+   sodipodi:linespacing="125%"
+   id="text4166"
+   y="394.87967"
+   x="69.480141"
+   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff4081;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   xml:space="preserve"><tspan
+     y="394.87967"
+     x="69.480141"
+     id="tspan4168"
+     sodipodi:role="line">1150 pin</tspan></text>
+<rect
+   style="fill:none;stroke:#ff4081;stroke-width:0.76888728;stroke-opacity:1"
+   id="rect4170"
+   width="90.513885"
+   height="17.94809"
+   x="53.258327"
+   y="676.85962"
+   ry="5.7897058" /><text
+   xml:space="preserve"
+   style="font-size:12.42240334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff4081;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+   x="67.733559"
+   y="689.65063"
+   id="text4172"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan4174"
+     x="67.733559"
+     y="689.65063">1150 pin</tspan></text>
+</svg>
