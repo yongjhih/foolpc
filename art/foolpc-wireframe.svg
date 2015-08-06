@@ -30,9 +30,9 @@
    inkscape:window-height="1028"
    id="namedview207"
    showgrid="false"
-   inkscape:zoom="0.41647062"
-   inkscape:cx="120.02756"
-   inkscape:cy="282.42754"
+   inkscape:zoom="0.5889784"
+   inkscape:cx="317.6594"
+   inkscape:cy="493.33824"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -234,6 +234,8 @@
      id="tspan5206"
      sodipodi:role="line">華碩 B85M-G PLUS/M-ATX/1A1D1H/U3S6/全固/前U3/四年(看清楚是PLUS！同價), $2190</tspan></text>
 
+
+
 <text
    sodipodi:linespacing="125%"
    id="text5208"
@@ -245,6 +247,8 @@
      x="263.74643"
      id="tspan5210"
      sodipodi:role="line">Intel Xeon R. E3-1231 V3【四核】3.4GHz(↑3.8G)/8M快取/無內顯【代理】, $7770</tspan></text>
+
+
 
 <text
    sodipodi:linespacing="125%"
@@ -258,6 +262,8 @@
      id="tspan5214"
      sodipodi:role="line">金士頓 8G*4(32G) DDR3-2400 HyperXSavage(紅), $8390</tspan></text>
 
+
+
 <text
    sodipodi:linespacing="125%"
    id="text5216"
@@ -269,6 +275,8 @@
      x="1230.4918"
      id="tspan5218"
      sodipodi:role="line">$8390</tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -282,6 +290,8 @@
      x="1230.4918"
      y="718.97992">$8390</tspan></text>
 
+
+
 <text
    sodipodi:linespacing="125%"
    id="text5224"
@@ -293,6 +303,8 @@
      x="1230.4918"
      id="tspan5226"
      sodipodi:role="line">$8390</tspan></text>
+
+
 
 <rect
    transform="scale(-1,1)"
@@ -349,6 +361,8 @@
      id="tspan5240"
      sodipodi:role="line">主機板</tspan></text>
 
+
+
 <rect
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="rect5242"
@@ -377,6 +391,8 @@
      id="tspan5248"
      sodipodi:role="line">CPU</tspan></text>
 
+
+
 <rect
    transform="scale(-1,1)"
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -397,6 +413,8 @@
      x="101.85342"
      id="tspan5254"
      sodipodi:role="line">記憶體</tspan></text>
+
+
 
 <rect
    ry="0"
@@ -430,6 +448,8 @@
      id="tspan44">Vertical Keylines determine placement of type and icons from edges of elemtents.</tspan></text>
 
 
+
+
 </g></g></g><g
    id="g52"
    transform="matrix(1.3333333,0,0,-1.3333333,1824.8587,1049.2938)"><g
@@ -446,6 +466,8 @@
      id="tspan60">Vertical Sizing determines height of content blocks.</tspan></text>
 
 
+
+
 </g></g></g><g
    id="g68"
    transform="matrix(1.3333333,0,0,-1.3333333,1824.8587,1049.2938)"><g
@@ -460,6 +482,8 @@
      x="0 9.3210001 16.783001 21.229 24.254101 30.527901 37.989899 45.240002 49.487099 56.529202 59.748001 63.036999 74.409401 81.510002 85.924797 93.247704 96.424896 103.5749 110.3427 113.6252 121.0092 128.0396 132.11639 139.1351 143.6396 155.02499 158.20219 165.43021 172.3826 175.6716 182.41991 189.6739 196.7459 203.6151 206.7923 214.0099 221.3549"
      y="0"
      id="tspan76">Horizontal margins determine spacing.</tspan></text>
+
+
 
 
 </g></g></g><g
@@ -528,6 +552,8 @@
      y="518.62708"
      id="tspan158">24</tspan></text>
 
+
+
 <g
    id="g162"
    transform="matrix(1.3333333,0,0,-1.3333333,1987.5254,523.29376)"><path
@@ -571,6 +597,8 @@
      y="-36.706512"
      id="tspan202">64dp</tspan></text>
 
+
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,102.28813 h -32 V 70.288132 h 32 z"
@@ -583,6 +611,8 @@
      x="1924.757 1934.4983 1944.2396 1953.9983"
      y="91.288116"
      id="tspan208">72dp</tspan></text>
+
+
 
 <path
    inkscape:connector-curvature="0"
@@ -597,6 +627,8 @@
      y="155.28812"
      id="tspan214">80dp</tspan></text>
 
+
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,230.28809 h -32 v -32 h 32 z"
@@ -609,6 +641,8 @@
      x="1924.757 1934.4983 1944.2396 1953.9983"
      y="219.28812"
      id="tspan220">88dp</tspan></text>
+
+
 
 <path
    inkscape:connector-curvature="0"
@@ -641,6 +675,8 @@
      y="-356.71185"
      id="tspan260">8dp</tspan></text>
 
+
+
 <g
    id="g264"
    transform="matrix(1.3333333,0,0,-1.3333333,475.42372,328.95479)"><g
@@ -669,6 +705,8 @@
      y="-292.71185"
      id="tspan298">16dp</tspan></text>
 
+
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,-217.71186 h -32 v -32 h 32 z"
@@ -682,6 +720,8 @@
      y="-228.71188"
      id="tspan304">24dp</tspan></text>
 
+
+
 <path
    inkscape:connector-curvature="0"
    d="m 1904.757,-153.71186 h -32 v -32 h 32 z"
@@ -694,6 +734,8 @@
      x="1925.6411 1935.3824 1945.1238 1954.8824"
      y="-164.71188"
      id="tspan310">32dp</tspan></text>
+
+
 
 <g
    id="g314"
@@ -717,6 +759,8 @@
      y="-100.71188"
      id="tspan336">48dp</tspan></text>
 
+
+
 <path
    inkscape:connector-curvature="0"
    d="m -34.029662,370.84038 h -85.333328 v 85.33333 h 85.333328 z m -1.33333,84 h -82.666668 v -82.66667 h 82.666668 z"
@@ -734,6 +778,8 @@
      y="-482.0452"
      id="tspan410">Vertical sizing key</tspan></text>
 
+
+
 <text
    xml:space="preserve"
    style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -745,6 +791,8 @@
      id="tspan3436"
      x="314.54794"
      y="499.435" /></text>
+
+
 
 <text
    xml:space="preserve"
@@ -758,6 +806,8 @@
      x="224.50557"
      y="504.23724" /></text>
 
+
+
 <text
    xml:space="preserve"
    style="font-size:70.53517914px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.96026492;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -769,6 +819,8 @@
      id="tspan5295"
      x="69.403275"
      y="165.30721">foolpc 電腦組裝規劃</tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -782,6 +834,8 @@
      x="264.4516"
      y="572.36249">Toshiba 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $2800</tspan></text>
 
+
+
 <path
    id="path5289"
    d="m 1143.0522,635.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
@@ -790,47 +844,9 @@
    style="fill:#000000;fill-opacity:0.70196078"
    inkscape:connector-curvature="0"
    d="m 1143.0522,707.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
-   id="path5291" /><rect
-   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4331)"
-   id="rect4269"
-   width="639.90106"
-   height="120.05649"
-   x="225.20203"
-   y="583.04742"
-   ry="3.6016948"
-   transform="matrix(1.4445111,0,0,1,-76.104792,0)" /><text
-   xml:space="preserve"
-   style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
-   x="265.85071"
-   y="614.43195"
-   id="text3450-1-4"
-   sodipodi:linespacing="125%"><tspan
-     y="614.43195"
-     x="265.85071"
-     sodipodi:role="line"
-     id="tspan4836">Toshiba 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $2800</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
-   x="265.53998"
-   y="648.55188"
-   id="text3450-1-4-9"
-   sodipodi:linespacing="125%"><tspan
-     y="648.55188"
-     x="265.53998"
-     sodipodi:role="line"
-     id="tspan4838">Seagate 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $3800</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
-   x="268.10638"
-   y="683.16058"
-   id="text3450-1-4-9-8"
-   sodipodi:linespacing="125%"><tspan
-     y="683.16058"
-     x="268.10638"
-     sodipodi:role="line"
-     id="tspan4840">Andrew 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $4800</tspan></text>
+   id="path5291" />
+
+
 <text
    xml:space="preserve"
    style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -842,6 +858,8 @@
      id="tspan4777"
      x="265.33804"
      y="351.61398">華碩 B85M-G PLUS/M-ATX/1A1D1H/U3S6/全固/前U3/四年(看清楚是PLUS！同價), $2190</tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -855,6 +873,8 @@
      x="264.35071"
      y="423.6069">Intel Xeon R. E3-1231 V3【四核】3.4GHz(↑3.8G)/8M快取/無內顯【代理】, $7770</tspan></text>
 
+
+
 <text
    xml:space="preserve"
    style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
@@ -866,6 +886,8 @@
      id="tspan4823"
      x="264.4577"
      y="497.28348">金士頓 8G*4(32G) DDR3-2400 HyperXSavage(紅), $8390</tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -879,6 +901,8 @@
      x="1231.0961"
      y="351.5531">$8390</tspan></text>
 
+
+
 <text
    sodipodi:linespacing="125%"
    id="text4916"
@@ -890,6 +914,8 @@
      x="1231.0961"
      id="tspan4918"
      sodipodi:role="line">$8390</tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -903,6 +929,8 @@
      x="1231.0961"
      y="491.5531">$8390</tspan></text>
 
+
+
 <text
    sodipodi:linespacing="125%"
    id="text4924"
@@ -914,6 +942,8 @@
      x="1231.0961"
      id="tspan4926"
      sodipodi:role="line">$8390</tspan></text>
+
+
 
 <rect
    style="opacity:0.22018349;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -979,6 +1009,8 @@
      x="103.33803"
      y="351.61398">主機板</tspan></text>
 
+
+
 <rect
    ry="0"
    rx="0"
@@ -1007,6 +1039,8 @@
      x="110.35071"
      y="423.6069">CPU</tspan></text>
 
+
+
 <rect
    ry="0"
    rx="0"
@@ -1027,6 +1061,8 @@
      id="tspan5030"
      x="102.4577"
      y="497.28348">記憶體</tspan></text>
+
+
 
 <rect
    transform="scale(-1,1)"
@@ -1049,6 +1085,8 @@
      x="110.4577"
      y="573.28351">硬碟</tspan></text>
 
+
+
 <path
    id="path5274"
    d="m 1143.0522,341.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
@@ -1062,11 +1100,60 @@
    d="m 1143.0522,483.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
    inkscape:connector-curvature="0"
    style="fill:#000000;fill-opacity:0.70196078" /><path
-   style="fill:#000000;fill-opacity:0.70196078"
-   inkscape:connector-curvature="0"
-   d="m 1143.0522,557.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
-   id="path5287" /><path
    id="path5293"
    d="m 1143.0522,779.63277 8.2261,8.22612 8.2261,-8.22612 h -16.4522 z"
    inkscape:connector-curvature="0"
-   style="fill:#000000;fill-opacity:0.70196078" /></svg>
+   style="fill:#000000;fill-opacity:0.70196078" /><g
+   id="g4057"><g
+   id="g4053"><rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4331)"
+     id="rect4269"
+     width="639.90106"
+     height="120.05649"
+     x="225.20203"
+     y="583.04742"
+     ry="3.6016948"
+     transform="matrix(1.4445111,0,0,1,-76.104792,-44)" /><rect
+     style="fill:#1a1a1a;fill-opacity:0.15894039;fill-rule:nonzero;stroke:none"
+     id="rect3248"
+     width="924.61084"
+     height="37.21751"
+     x="248.94136"
+     y="545.05646"
+     ry="3.6016948" /></g><text
+   sodipodi:linespacing="125%"
+   id="text3450-1-4"
+   y="570.43195"
+   x="265.85071"
+   style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
+   xml:space="preserve"><tspan
+     id="tspan4836"
+     sodipodi:role="line"
+     x="265.85071"
+     y="570.43195">Toshiba 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $2800</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3450-1-4-9"
+   y="604.55188"
+   x="265.53998"
+   style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
+   xml:space="preserve"><tspan
+     id="tspan4838"
+     sodipodi:role="line"
+     x="265.53998"
+     y="604.55188">Seagate 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $3800</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3450-1-4-9-8"
+   y="639.16058"
+   x="268.10638"
+   style="font-size:20.49556732px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.70196078;stroke:none;font-family:Noto Sans CJK TC DemiLight;-inkscape-font-specification:Noto Sans CJK TC DemiLight Light"
+   xml:space="preserve"><tspan
+     id="tspan4840"
+     sodipodi:role="line"
+     x="268.10638"
+     y="639.16058">Andrew 3TB (MD03ACA300V)【NVR/NAS碟】64M/7200轉/三年保, $4800</tspan></text>
+
+</g></svg>
